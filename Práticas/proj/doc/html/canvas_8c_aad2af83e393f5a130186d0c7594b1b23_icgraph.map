@@ -1,0 +1,10 @@
+<map id="canvas_cleaning" name="canvas_cleaning">
+<area shape="rect" id="node1" title="Paints all the canvas to the default color." alt="" coords="755,57,872,84"/>
+<area shape="rect" id="node2" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="182,44,267,71"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#af08548ca5d9eb1b591534bf769e65bb2" title="Behaves like a state machine determining which function should be called." alt="" coords="560,32,707,59"/>
+<area shape="rect" id="node5" href="$play__menu_8h.html#a916487f02659035c0c4b5475748ac63d" title="Determines the flow of execution according to event." alt="" coords="335,44,512,71"/>
+<area shape="rect" id="node6" href="$playground__menu_8h.html#a4419250b2dea8dba6e0dd8d56216facf" title="Behaves like a state machine determining which function should be called." alt="" coords="560,133,707,160"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,81,115,108"/>
+<area shape="rect" id="node7" href="$playground__menu_8h.html#a9e8c1c300e97ee435b8070e0595723ff" title="Determines the flow of execution according to event." alt="" coords="335,120,512,147"/>
+<area shape="rect" id="node8" href="$playground__menu_8h.html#a99da563b093a11d2b46c75dc8d6d2136" title="Playground entry function." alt="" coords="163,107,287,133"/>
+</map>

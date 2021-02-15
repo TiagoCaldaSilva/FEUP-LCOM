@@ -1,0 +1,21 @@
+<map id="select_avatar_state_machine" name="select_avatar_state_machine">
+<area shape="rect" id="node1" title="Determines the flow of execution according to event." alt="" coords="5,120,140,161"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a4a0d3c373a7ae03c1f53af7091933f19" title="Draws the sprite in the given buffer in a different position from sprite.x and sprite...." alt="" coords="398,22,503,48"/>
+<area shape="rect" id="node4" href="$mouse_8c.html#a0ae6ca457977862ce45b7e16aed9b353" title="Keeps tracking the movement of the cursor according to the information present in the mouse packet." alt="" coords="211,127,306,154"/>
+<area shape="rect" id="node7" href="$avatar_8c.html#a14e3139197782ed0ac6213107887a015" title="Moves the avatar sprite." alt="" coords="213,199,304,226"/>
+<area shape="rect" id="node16" href="$avatar_8c.html#af219eff17f52a2a3e814c2de6436c29b" title="Tells where the cursor is hovering." alt="" coords="188,377,329,418"/>
+<area shape="rect" id="node19" href="$avatar_8c.html#aab5d638d5b02bdf065e77669d912d3bb" title="Draws the sprites required for avatar menu." alt="" coords="193,10,325,52"/>
+<area shape="rect" id="node3" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="589,14,732,56"/>
+<area shape="rect" id="node5" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="407,72,495,99"/>
+<area shape="rect" id="node6" href="$sprite_8c.html#a9d7045a6b7322b38f4a28e3389487a32" title="Erases the sprite from a given buffer." alt="" coords="404,123,497,150"/>
+<area shape="rect" id="node8" href="$avatar_8c.html#a3a36743247201b11c9b951d67c01fbd6" title="Cleans the avatar that was moved out of sight." alt="" coords="383,342,518,368"/>
+<area shape="rect" id="node11" href="$avatar_8c.html#ac013d0b029877f1184999fdeedb752f1" title="Moves the next avatar sprite to the left." alt="" coords="397,392,505,419"/>
+<area shape="rect" id="node12" href="$avatar_8c.html#a33f2143559a362d22331636e68dd683a" title="Moves the next avatar sprite to the right." alt="" coords="393,443,509,470"/>
+<area shape="rect" id="node13" href="$avatar_8c.html#a067a5eca19c4ab128a8e46d5c11ecd1a" title="Moves the previous avatar sprite to the left." alt="" coords="397,174,504,200"/>
+<area shape="rect" id="node14" href="$avatar_8c.html#a65ce09e8793c242bf5f760ecb234986c" title="Moves the previous avatar sprite to the right." alt="" coords="393,224,508,251"/>
+<area shape="rect" id="node15" href="$avatar_8c.html#a3c36e0108308d9f7fbaa8941027a6963" title="updates the contents of the main video buffer with the ones from the secondary video buffer" alt="" coords="377,276,524,317"/>
+<area shape="rect" id="node9" href="$video__card_8c.html#ae1c0da071dddadac043edf0bfe69a07e" title="draws a reactangle of a given color with a given color" alt="" coords="572,342,749,368"/>
+<area shape="rect" id="node10" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="797,342,949,368"/>
+<area shape="rect" id="node17" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="415,494,486,520"/>
+<area shape="rect" id="node18" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="639,494,682,520"/>
+</map>

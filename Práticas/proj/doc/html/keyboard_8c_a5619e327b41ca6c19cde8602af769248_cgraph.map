@@ -1,0 +1,5 @@
+<map id="keyboard_in_buffer" name="keyboard_in_buffer">
+<area shape="rect" id="node1" title="Checks whether or not KBC input buffer is empty." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$keyboard_8c.html#a5e66b83b8505e838b91ba8912ed5b827" title="Reads the current keyboard status to st." alt="" coords="184,5,335,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="383,5,501,32"/>
+</map>

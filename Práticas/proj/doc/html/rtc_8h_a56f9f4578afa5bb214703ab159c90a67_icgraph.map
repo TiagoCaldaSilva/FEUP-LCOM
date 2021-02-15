@@ -1,0 +1,10 @@
+<map id="rtc_wait_valid_time" name="rtc_wait_valid_time">
+<area shape="rect" id="node1" title="Makes sure none of the register are operation while an update is in progress." alt="" coords="825,64,956,91"/>
+<area shape="rect" id="node2" href="$rtc_8h.html#a26e94139c9e69e63cc8c00c714d6bfd6" title="Read the value of the register passed as time." alt="" coords="671,39,777,66"/>
+<area shape="rect" id="node8" href="$rtc_8h.html#a2ca85f70f162ed423f5db630ed3e89f4" title="Writes a value to the register passed as time." alt="" coords="671,90,777,116"/>
+<area shape="rect" id="node3" href="$play__menu_8h.html#a74b2f52fb51c057ce76165b5a0337806" title="Moves the menu in a given direction." alt="" coords="527,39,617,66"/>
+<area shape="rect" id="node5" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="163,64,248,91"/>
+<area shape="rect" id="node7" href="$rtc_8h.html#a2b52288d8d4b9b4129d48a637a611b3c" title="Sets an alarm for the next time_value seconds." alt="" coords="521,90,623,116"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#a916487f02659035c0c4b5475748ac63d" title="Determines the flow of execution according to event." alt="" coords="296,39,473,66"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,64,115,91"/>
+</map>

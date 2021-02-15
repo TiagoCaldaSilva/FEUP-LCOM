@@ -1,0 +1,7 @@
+<map id="clear_moved_avatar" name="clear_moved_avatar">
+<area shape="rect" id="node1" title="Cleans the avatar that was moved out of sight." alt="" coords="669,13,804,39"/>
+<area shape="rect" id="node2" href="$avatar_8h.html#a14e3139197782ed0ac6213107887a015" title="Moves the avatar sprite." alt="" coords="531,13,621,39"/>
+<area shape="rect" id="node3" href="$avatar_8h.html#a3a8f678c5b39007c36cda9bd832de2f3" title="Determines the flow of execution according to event." alt="" coords="348,5,483,47"/>
+<area shape="rect" id="node4" href="$avatar_8h.html#abaa5ceb2155c01d35bdbf3d8c2c5af50" title="Select Avatar Menu entry function." alt="" coords="163,13,300,39"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,13,115,39"/>
+</map>

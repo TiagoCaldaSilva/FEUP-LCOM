@@ -1,0 +1,8 @@
+<map id="move_blocker" name="move_blocker">
+<area shape="rect" id="node1" title="Moves the blocker." alt="" coords="5,81,107,108"/>
+<area shape="rect" id="node2" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="166,5,237,32"/>
+<area shape="rect" id="node4" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="157,56,245,83"/>
+<area shape="rect" id="node5" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="296,78,439,119"/>
+<area shape="rect" id="node6" href="$sprite_8c.html#a9d7045a6b7322b38f4a28e3389487a32" title="Erases the sprite from a given buffer." alt="" coords="155,157,248,184"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="346,5,389,32"/>
+</map>

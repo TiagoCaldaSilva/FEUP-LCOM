@@ -1,0 +1,10 @@
+<map id="player1_remove_letter" name="player1_remove_letter">
+<area shape="rect" id="node1" title="removes a letter to the player 1 name" alt="" coords="5,71,153,98"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="399,75,487,102"/>
+<area shape="rect" id="node4" href="$avatar_8c.html#af219eff17f52a2a3e814c2de6436c29b" title="Tells where the cursor is hovering." alt="" coords="201,5,343,47"/>
+<area shape="rect" id="node7" href="$avatar_8c.html#aab5d638d5b02bdf065e77669d912d3bb" title="Draws the sprites required for avatar menu." alt="" coords="206,123,338,164"/>
+<area shape="rect" id="node3" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="544,119,687,160"/>
+<area shape="rect" id="node5" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="408,13,479,39"/>
+<area shape="rect" id="node6" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="594,13,637,39"/>
+<area shape="rect" id="node8" href="$sprite_8c.html#a4a0d3c373a7ae03c1f53af7091933f19" title="Draws the sprite in the given buffer in a different position from sprite.x and sprite...." alt="" coords="391,177,496,203"/>
+</map>

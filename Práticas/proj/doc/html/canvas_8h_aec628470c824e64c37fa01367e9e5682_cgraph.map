@@ -1,0 +1,10 @@
+<map id="canvas_bucket_fill" name="canvas_bucket_fill">
+<area shape="rect" id="node1" title="Emulates the bucket tool, using the flood&#45;fill algorithm in playground." alt="" coords="5,69,132,96"/>
+<area shape="rect" id="node2" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="381,32,451,59"/>
+<area shape="rect" id="node4" href="$canvas_8c.html#a037f591ec279191f48e196f6a75fa3cb" title="Implementation of the flood&#45;fill algorithm (Discussed more closely in the report)" alt="" coords="180,95,295,121"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="585,5,628,32"/>
+<area shape="rect" id="node5" href="$canvas_8c.html#a4c7cc9b6e27c1fb5ce4246f3295009b9" title="Paints All the pixels to the left to avoid stack Overflow in Playground." alt="" coords="537,181,676,208"/>
+<area shape="rect" id="node8" href="$canvas_8c.html#a6599ef73ee16b41c9ea792c446d871bc" title="Paints All the pixels to the right to avoid stack Overflow in Playground." alt="" coords="343,107,489,133"/>
+<area shape="rect" id="node6" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="729,141,871,182"/>
+<area shape="rect" id="node7" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="724,73,876,100"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="canvas_flood_fill_left_play_mode" name="canvas_flood_fill_left_play_mode">
+<area shape="rect" id="node1" title="Paints All the pixels to the left to avoid stack Overflow in Play Menu." alt="" coords="1085,29,1224,71"/>
+<area shape="rect" id="node2" href="$canvas_8h.html#a6fc4fc9c14e7cd2dead67bb53e3e4255" title="Emulates the bucket tool, using the flood&#45;fill algorithm in Play Menu." alt="" coords="716,29,843,71"/>
+<area shape="rect" id="node7" href="$canvas_8h.html#a6ed03370a55b8b3e95303a674ac2d411" title="Paints All the pixels to the right to avoid stack Overflow in Play Menu." alt="" coords="891,71,1037,112"/>
+<area shape="rect" id="node3" href="$play__menu_8h.html#af08548ca5d9eb1b591534bf769e65bb2" title="Behaves like a state machine determining which function should be called." alt="" coords="521,37,668,63"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#a916487f02659035c0c4b5475748ac63d" title="Determines the flow of execution according to event." alt="" coords="296,37,473,63"/>
+<area shape="rect" id="node5" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="163,37,248,63"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,37,115,63"/>
+</map>

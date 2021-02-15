@@ -1,0 +1,4 @@
+<map id="playground_load_sprites" name="playground_load_sprites">
+<area shape="rect" id="node1" title="Loads all the different playground sprites." alt="" coords="5,5,168,32"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a53e805348193908dd2411a58f260e369" title="Create a sprite object." alt="" coords="216,5,313,32"/>
+</map>

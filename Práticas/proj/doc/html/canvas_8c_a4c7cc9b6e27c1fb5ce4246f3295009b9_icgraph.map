@@ -1,0 +1,11 @@
+<map id="canvas_flood_fill_left" name="canvas_flood_fill_left">
+<area shape="rect" id="node1" title="Paints All the pixels to the left to avoid stack Overflow in Playground." alt="" coords="1473,55,1612,81"/>
+<area shape="rect" id="node2" href="$canvas_8h.html#a037f591ec279191f48e196f6a75fa3cb" title="Implementation of the flood&#45;fill algorithm (Discussed more closely in the report)" alt="" coords="929,31,1044,57"/>
+<area shape="rect" id="node8" href="$canvas_8h.html#a4c7cc9b6e27c1fb5ce4246f3295009b9" title="Paints All the pixels to the left to avoid stack Overflow in Playground." alt="" coords="1287,55,1425,81"/>
+<area shape="rect" id="node9" href="$canvas_8h.html#a6599ef73ee16b41c9ea792c446d871bc" title="Paints All the pixels to the right to avoid stack Overflow in Playground." alt="" coords="1092,105,1239,132"/>
+<area shape="rect" id="node3" href="$canvas_8h.html#aec628470c824e64c37fa01367e9e5682" title="Emulates the bucket tool, using the flood&#45;fill algorithm in playground." alt="" coords="755,31,881,57"/>
+<area shape="rect" id="node4" href="$playground__menu_8h.html#a4419250b2dea8dba6e0dd8d56216facf" title="Behaves like a state machine determining which function should be called." alt="" coords="560,31,707,57"/>
+<area shape="rect" id="node5" href="$playground__menu_8h.html#a9e8c1c300e97ee435b8070e0595723ff" title="Determines the flow of execution according to event." alt="" coords="335,31,512,57"/>
+<area shape="rect" id="node6" href="$playground__menu_8h.html#a99da563b093a11d2b46c75dc8d6d2136" title="Playground entry function." alt="" coords="163,31,287,57"/>
+<area shape="rect" id="node7" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,31,115,57"/>
+</map>

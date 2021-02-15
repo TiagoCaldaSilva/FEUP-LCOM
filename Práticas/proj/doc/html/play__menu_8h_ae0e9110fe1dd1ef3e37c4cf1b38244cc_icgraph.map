@@ -1,0 +1,8 @@
+<map id="draw_guess_word" name="draw_guess_word">
+<area shape="rect" id="node1" title="Draws the guess word in the screen." alt="" coords="660,56,785,83"/>
+<area shape="rect" id="node2" href="$play__menu_8h.html#ab724f0b35ec795a58e6fef6d64a62195" title="Draws the correct awnser icon." alt="" coords="521,56,612,83"/>
+<area shape="rect" id="node3" href="$play__menu_8h.html#aa3c6c41788a704f5d186fec44770179d" title="Adds a letter sprite to the guess word." alt="" coords="324,5,445,32"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="163,56,248,83"/>
+<area shape="rect" id="node6" href="$play__menu_8h.html#a916487f02659035c0c4b5475748ac63d" title="Determines the flow of execution according to event." alt="" coords="296,107,473,133"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,56,115,83"/>
+</map>

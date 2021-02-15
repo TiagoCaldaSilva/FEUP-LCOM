@@ -1,0 +1,4 @@
+<map id="rtc_interrupt_handler" name="rtc_interrupt_handler">
+<area shape="rect" id="node1" title="Handles an rtc interrupt." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node2" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="193,5,312,32"/>
+</map>

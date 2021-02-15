@@ -1,0 +1,4 @@
+<map id="mouse_read_status" name="mouse_read_status">
+<area shape="rect" id="node1" title="Reads the mouse current status." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="189,5,308,32"/>
+</map>

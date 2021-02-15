@@ -1,0 +1,15 @@
+<map id="settings_state_machine" name="settings_state_machine">
+<area shape="rect" id="node1" title="Determines the flow of execution according to event." alt="" coords="5,92,165,119"/>
+<area shape="rect" id="node2" href="$video__card_8c.html#a9893a35a1123cf5ba2c390087749fece" title="Clears the given buffer." alt="" coords="245,16,333,43"/>
+<area shape="rect" id="node3" href="$settings__menu_8c.html#ab3d9f6f1b48ffe5459a79681f2b7bf60" title="draws sprites in the buffer passed as parameter" alt="" coords="241,67,336,93"/>
+<area shape="rect" id="node9" href="$mouse_8c.html#a0ae6ca457977862ce45b7e16aed9b353" title="Keeps tracking the movement of the cursor according to the information present in the mouse packet." alt="" coords="241,117,336,144"/>
+<area shape="rect" id="node11" href="$settings__menu_8c.html#a4c2fea5cfdaabe9c89e8deddddcbdbed" title="Tells where the cursor is hovering." alt="" coords="213,179,364,221"/>
+<area shape="rect" id="node4" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="417,107,505,133"/>
+<area shape="rect" id="node6" href="$settings__menu_8c.html#a64452129717933a2f1d7d0e81ccc8d2a" title="draws the value of time" alt="" coords="421,56,502,83"/>
+<area shape="rect" id="node8" href="$settings__menu_8c.html#a181ad386a8921a039696d07d832f27ac" title="draws the value of the velocity" alt="" coords="412,5,511,32"/>
+<area shape="rect" id="node5" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="712,74,855,115"/>
+<area shape="rect" id="node7" href="$sprite_8c.html#a4a0d3c373a7ae03c1f53af7091933f19" title="Draws the sprite in the given buffer in a different position from sprite.x and sprite...." alt="" coords="559,56,664,83"/>
+<area shape="rect" id="node10" href="$sprite_8c.html#a9d7045a6b7322b38f4a28e3389487a32" title="Erases the sprite from a given buffer." alt="" coords="415,157,508,184"/>
+<area shape="rect" id="node12" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="426,208,497,235"/>
+<area shape="rect" id="node13" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="590,208,633,235"/>
+</map>

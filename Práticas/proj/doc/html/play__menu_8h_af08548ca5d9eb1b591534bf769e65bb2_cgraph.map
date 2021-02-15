@@ -1,0 +1,18 @@
+<map id="play_menu_paint_call" name="play_menu_paint_call">
+<area shape="rect" id="node1" title="Behaves like a state machine determining which function should be called." alt="" coords="5,334,152,361"/>
+<area shape="rect" id="node2" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="797,15,867,42"/>
+<area shape="rect" id="node4" href="$canvas_8c.html#a6fc4fc9c14e7cd2dead67bb53e3e4255" title="Emulates the bucket tool, using the flood&#45;fill algorithm in Play Menu." alt="" coords="200,133,327,175"/>
+<area shape="rect" id="node6" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="761,225,903,267"/>
+<area shape="rect" id="node9" href="$canvas_8c.html#aad2af83e393f5a130186d0c7594b1b23" title="Paints all the canvas to the default color." alt="" coords="580,385,697,411"/>
+<area shape="rect" id="node10" href="$canvas_8c.html#acb0e51c67b7022c184488f0506642e56" title="Fills the gaps between mouse movements with the correct color." alt="" coords="203,435,323,462"/>
+<area shape="rect" id="node15" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="404,334,492,361"/>
+<area shape="rect" id="node16" href="$sprite_8c.html#a9d7045a6b7322b38f4a28e3389487a32" title="Erases the sprite from a given buffer." alt="" coords="217,486,310,513"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="956,15,999,42"/>
+<area shape="rect" id="node5" href="$canvas_8c.html#a8eae21041a81bccb6be4f2bee301c7bb" title="Paints All the pixels to the left to avoid stack Overflow in Play Menu." alt="" coords="569,116,708,157"/>
+<area shape="rect" id="node8" href="$canvas_8c.html#a6ed03370a55b8b3e95303a674ac2d411" title="Paints All the pixels to the right to avoid stack Overflow in Play Menu." alt="" coords="375,175,521,216"/>
+<area shape="rect" id="node7" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="756,313,908,339"/>
+<area shape="rect" id="node11" href="$canvas_8c.html#a19db61b9c98376cdd83c31075ab6f93b" title="Called upon a event that requires painting and the current tool is the brush or the rubber." alt="" coords="381,486,515,513"/>
+<area shape="rect" id="node14" href="$utils_8c.html#a843ad198685b49165b8a2f773d042b41" title="Returns the greatest value between parameters." alt="" coords="425,435,471,462"/>
+<area shape="rect" id="node12" href="$sprite_8c.html#a53e805348193908dd2411a58f260e369" title="Create a sprite object." alt="" coords="590,486,687,513"/>
+<area shape="rect" id="node13" href="$sprite_8c.html#af16c6befaac9ffb673b9e3c798d542ed" title="Destroys the sprite passed as parameter." alt="" coords="587,537,691,563"/>
+</map>

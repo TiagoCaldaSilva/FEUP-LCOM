@@ -1,0 +1,17 @@
+<map id="draw_score_1" name="draw_score_1">
+<area shape="rect" id="node1" title="Draws player 1 score sprite." alt="" coords="947,291,1049,317"/>
+<area shape="rect" id="node2" href="$play__menu_8h.html#abd2df4cf9967af465f55719fa50012d2" title="Draws all the required sprites by play menu." alt="" coords="763,152,899,179"/>
+<area shape="rect" id="node8" href="$play__menu_8h.html#ac82b2edef4e857216a80599014329f44" title="Draws the choosen word in the screen." alt="" coords="765,291,897,317"/>
+<area shape="rect" id="node13" href="$play__menu_8h.html#ae0e9110fe1dd1ef3e37c4cf1b38244cc" title="Draws the guess word in the screen." alt="" coords="768,341,893,368"/>
+<area shape="rect" id="node3" href="$play__menu_8h.html#ab4093d214bce3a16e916b19d782dd446" title="Draws all the required sprites by play menu if the game ends." alt="" coords="559,5,677,32"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#a322b5b02f30083058a55cc5082a62bc8" title="Draws all the required sprites by play menu if mouse is hovering in the buttons." alt="" coords="541,57,695,98"/>
+<area shape="rect" id="node5" href="$play__menu_8h.html#a5c81d8d808f6eca64c7999523b46e1ac" title="Draws all the required sprites by play menu if mouse is hovering in the buttons." alt="" coords="521,123,715,149"/>
+<area shape="rect" id="node6" href="$play__menu_8h.html#aa79d3facc656952a600953881a0c4bcd" title="Draws all the required sprites by play menu if mouse is hovering in the buttons." alt="" coords="541,174,695,215"/>
+<area shape="rect" id="node7" href="$play__menu_8h.html#ad3e6de8e30e24d6a7b06a2d36e674760" title="Draws all the required sprites by play menu if the game is paused." alt="" coords="549,240,687,267"/>
+<area shape="rect" id="node9" href="$play__menu_8h.html#a98e3409c4fdddc443cdf796308d7bf50" title="Chooses a word from the set of words, randomly." alt="" coords="569,291,667,317"/>
+<area shape="rect" id="node10" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="163,316,248,343"/>
+<area shape="rect" id="node12" href="$play__menu_8h.html#a916487f02659035c0c4b5475748ac63d" title="Determines the flow of execution according to event." alt="" coords="296,291,473,317"/>
+<area shape="rect" id="node11" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,316,115,343"/>
+<area shape="rect" id="node14" href="$play__menu_8h.html#ab724f0b35ec795a58e6fef6d64a62195" title="Draws the correct awnser icon." alt="" coords="573,341,663,368"/>
+<area shape="rect" id="node15" href="$play__menu_8h.html#aa3c6c41788a704f5d186fec44770179d" title="Adds a letter sprite to the guess word." alt="" coords="324,392,445,419"/>
+</map>

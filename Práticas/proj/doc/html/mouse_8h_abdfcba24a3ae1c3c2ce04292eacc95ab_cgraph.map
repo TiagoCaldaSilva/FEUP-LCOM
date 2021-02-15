@@ -1,0 +1,5 @@
+<map id="mouse_in_buffer" name="mouse_in_buffer">
+<area shape="rect" id="node1" title="Reports the current state of kbc&#39;s input buffer." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#a311f43f2f33b33379ee614b04c60f89e" title="Reads the mouse current status." alt="" coords="169,5,305,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="353,5,472,32"/>
+</map>

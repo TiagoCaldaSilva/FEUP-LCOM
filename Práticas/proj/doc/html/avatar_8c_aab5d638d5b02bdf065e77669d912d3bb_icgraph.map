@@ -1,0 +1,8 @@
+<map id="select_avatar_draw_actual_sprites" name="select_avatar_draw_actual_sprites">
+<area shape="rect" id="node1" title="Draws the sprites required for avatar menu." alt="" coords="544,74,676,115"/>
+<area shape="rect" id="node2" href="$avatar_8h.html#af69a1151d40bbaf84cb11108cbaea2a4" title="removes a letter to the player 1 name" alt="" coords="348,5,496,32"/>
+<area shape="rect" id="node3" href="$avatar_8h.html#abaa5ceb2155c01d35bdbf3d8c2c5af50" title="Select Avatar Menu entry function." alt="" coords="163,81,300,108"/>
+<area shape="rect" id="node5" href="$avatar_8h.html#a24be97fe23112ca6392ebf2b88517f01" title="adds a letter to the player 2 name" alt="" coords="348,107,496,133"/>
+<area shape="rect" id="node6" href="$avatar_8h.html#a3a8f678c5b39007c36cda9bd832de2f3" title="Determines the flow of execution according to event." alt="" coords="355,158,489,199"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,81,115,108"/>
+</map>

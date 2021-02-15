@@ -1,0 +1,8 @@
+<map id="playground_draw_actual_default" name="playground_draw_actual_default">
+<area shape="rect" id="node1" title="Draws all the required sprites by playground." alt="" coords="372,104,533,145"/>
+<area shape="rect" id="node2" href="$playground__menu_8h.html#a26d46b0905b4e8160945b7628f5fbe51" title="Draws all the required sprites by playground if mouse is hovering in the buttons." alt="" coords="163,5,324,47"/>
+<area shape="rect" id="node3" href="$playground__menu_8h.html#af3bc79ac4647ffd2728e476c14f51ade" title="Draws all the required sprites by playground if mouse is hovering in the buttons." alt="" coords="163,71,324,112"/>
+<area shape="rect" id="node4" href="$playground__menu_8h.html#aa0d97db0c90dfc9d0adda20168892319" title="Draws all the required sprites by playground if mouse is hovering in the buttons." alt="" coords="163,136,324,177"/>
+<area shape="rect" id="node5" href="$playground__menu_8h.html#a99da563b093a11d2b46c75dc8d6d2136" title="Playground entry function." alt="" coords="181,202,305,229"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,202,115,229"/>
+</map>

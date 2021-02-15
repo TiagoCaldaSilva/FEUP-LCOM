@@ -1,0 +1,4 @@
+<map id="move_blocker_right" name="move_blocker_right">
+<area shape="rect" id="node1" title="Moves the blocker right." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a9d7045a6b7322b38f4a28e3389487a32" title="Erases the sprite from a given buffer." alt="" coords="187,5,280,32"/>
+</map>

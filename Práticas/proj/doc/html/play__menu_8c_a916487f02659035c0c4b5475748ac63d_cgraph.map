@@ -1,0 +1,42 @@
+<map id="play_menu_state_machine" name="play_menu_state_machine">
+<area shape="rect" id="node1" title="Determines the flow of execution according to event." alt="" coords="5,756,183,783"/>
+<area shape="rect" id="node2" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="1097,1220,1167,1247"/>
+<area shape="rect" id="node4" href="$canvas_8c.html#aad2af83e393f5a130186d0c7594b1b23" title="Paints all the canvas to the default color." alt="" coords="457,1101,574,1128"/>
+<area shape="rect" id="node6" href="$play__menu_8c.html#a98e3409c4fdddc443cdf796308d7bf50" title="Chooses a word from the set of words, randomly." alt="" coords="267,579,365,605"/>
+<area shape="rect" id="node12" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="673,731,761,757"/>
+<area shape="rect" id="node13" href="$play__menu_8c.html#ab724f0b35ec795a58e6fef6d64a62195" title="Draws the correct awnser icon." alt="" coords="271,655,361,681"/>
+<area shape="rect" id="node16" href="$mouse_8c.html#a0ae6ca457977862ce45b7e16aed9b353" title="Keeps tracking the movement of the cursor according to the information present in the mouse packet." alt="" coords="269,781,363,808"/>
+<area shape="rect" id="node18" href="$play__menu_8c.html#a74b2f52fb51c057ce76165b5a0337806" title="Moves the menu in a given direction." alt="" coords="470,245,561,272"/>
+<area shape="rect" id="node30" href="$play__menu_8c.html#ae5e9ae5ddabd01ea1b9fb43be9e150b7" title="Tells where the cursor is hovering." alt="" coords="231,1249,401,1276"/>
+<area shape="rect" id="node31" href="$play__menu_8c.html#af08548ca5d9eb1b591534bf769e65bb2" title="Behaves like a state machine determining which function should be called." alt="" coords="243,959,389,985"/>
+<area shape="rect" id="node40" href="$rtc_8c.html#a2b52288d8d4b9b4129d48a637a611b3c" title="Sets an alarm for the next time_value seconds." alt="" coords="465,56,566,83"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="1256,1220,1299,1247"/>
+<area shape="rect" id="node5" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="1056,952,1208,979"/>
+<area shape="rect" id="node7" href="$play__menu_8c.html#ac82b2edef4e857216a80599014329f44" title="Draws the choosen word in the screen." alt="" coords="449,579,581,605"/>
+<area shape="rect" id="node9" href="$sprite_8c.html#a4a0d3c373a7ae03c1f53af7091933f19" title="Draws the sprite in the given buffer in a different position from sprite.x and sprite...." alt="" coords="878,528,983,555"/>
+<area shape="rect" id="node8" href="$play__menu_8c.html#ae7401e64b7dc9e9909dfb3a605539644" title="Draws player 1 score sprite." alt="" coords="666,579,769,605"/>
+<area shape="rect" id="node11" href="$play__menu_8c.html#af2677666f011469e6c8f5538341957b6" title="Draws player 2 score sprite." alt="" coords="666,629,769,656"/>
+<area shape="rect" id="node10" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="1061,521,1203,562"/>
+<area shape="rect" id="node14" href="$play__menu_8c.html#ae0e9110fe1dd1ef3e37c4cf1b38244cc" title="Draws the guess word in the screen." alt="" coords="453,629,578,656"/>
+<area shape="rect" id="node15" href="$play__menu_8c.html#a0fcf494f32f9ac84eb224c1f20f11a05" title="Sets the canvas to be ready to be used." alt="" coords="669,680,765,707"/>
+<area shape="rect" id="node17" href="$sprite_8c.html#a9d7045a6b7322b38f4a28e3389487a32" title="Erases the sprite from a given buffer." alt="" coords="469,832,562,859"/>
+<area shape="rect" id="node19" href="$play__menu_8c.html#a4d2b92e58c3e10c531414ac12d0fda31" title="Cleans the contents of previous menu." alt="" coords="651,376,784,403"/>
+<area shape="rect" id="node21" href="$play__menu_8c.html#ae7800ebd00414a61e426d7987e031bad" title="Moves the next menu set of sprite to the left." alt="" coords="857,107,1004,133"/>
+<area shape="rect" id="node22" href="$play__menu_8c.html#a36b447a88d7dbaa34e0fac4c092a6f00" title="Moves the next menu set of sprite to the right." alt="" coords="853,216,1008,243"/>
+<area shape="rect" id="node23" href="$play__menu_8c.html#a8a1366f3248c58704ac2e81158489da3" title="Moves the previous menu set of sprite to the left." alt="" coords="858,325,1003,352"/>
+<area shape="rect" id="node24" href="$play__menu_8c.html#acfca19f0c9b284cc5cca7b594cecb250" title="Moves the previous menu set of sprite to the right." alt="" coords="854,388,1007,415"/>
+<area shape="rect" id="node25" href="$play__menu_8c.html#a62a2a2cff2c130c5c1130a0962a49818" title="updates the contents of the main video buffer with the ones from the secondary video buffer" alt="" coords="629,209,805,250"/>
+<area shape="rect" id="node26" href="$rtc_8c.html#a26e94139c9e69e63cc8c00c714d6bfd6" title="Read the value of the register passed as time." alt="" coords="665,56,770,83"/>
+<area shape="rect" id="node29" href="$rtc_8c.html#a2ca85f70f162ed423f5db630ed3e89f4" title="Writes a value to the register passed as time." alt="" coords="664,5,771,32"/>
+<area shape="rect" id="node20" href="$sprite_8c.html#a871916c496a81a293dbb09fee707307f" title="Same as draw_sprites but allows drawing beyond the screen borders or even not the whole sprite." alt="" coords="883,464,978,491"/>
+<area shape="rect" id="node27" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="1073,31,1191,57"/>
+<area shape="rect" id="node28" href="$rtc_8c.html#a56f9f4578afa5bb214703ab159c90a67" title="Makes sure none of the register are operation while an update is in progress." alt="" coords="865,5,996,32"/>
+<area shape="rect" id="node32" href="$canvas_8c.html#a6fc4fc9c14e7cd2dead67bb53e3e4255" title="Emulates the bucket tool, using the flood&#45;fill algorithm in Play Menu." alt="" coords="452,1035,579,1077"/>
+<area shape="rect" id="node35" href="$canvas_8c.html#acb0e51c67b7022c184488f0506642e56" title="Fills the gaps between mouse movements with the correct color." alt="" coords="455,984,575,1011"/>
+<area shape="rect" id="node33" href="$canvas_8c.html#a8eae21041a81bccb6be4f2bee301c7bb" title="Paints All the pixels to the left to avoid stack Overflow in Play Menu." alt="" coords="861,1027,1000,1069"/>
+<area shape="rect" id="node34" href="$canvas_8c.html#a6ed03370a55b8b3e95303a674ac2d411" title="Paints All the pixels to the right to avoid stack Overflow in Play Menu." alt="" coords="644,977,791,1018"/>
+<area shape="rect" id="node36" href="$canvas_8c.html#a19db61b9c98376cdd83c31075ab6f93b" title="Called upon a event that requires painting and the current tool is the brush or the rubber." alt="" coords="650,847,785,873"/>
+<area shape="rect" id="node39" href="$utils_8c.html#a843ad198685b49165b8a2f773d042b41" title="Returns the greatest value between parameters." alt="" coords="694,901,741,928"/>
+<area shape="rect" id="node37" href="$sprite_8c.html#a53e805348193908dd2411a58f260e369" title="Create a sprite object." alt="" coords="882,749,979,776"/>
+<area shape="rect" id="node38" href="$sprite_8c.html#af16c6befaac9ffb673b9e3c798d542ed" title="Destroys the sprite passed as parameter." alt="" coords="879,800,983,827"/>
+</map>

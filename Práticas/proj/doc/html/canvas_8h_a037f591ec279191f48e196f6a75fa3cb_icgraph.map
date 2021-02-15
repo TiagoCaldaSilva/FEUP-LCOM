@@ -1,0 +1,8 @@
+<map id="canvas_flood_fill" name="canvas_flood_fill">
+<area shape="rect" id="node1" title="Implementation of the flood&#45;fill algorithm (Discussed more closely in the report)" alt="" coords="929,5,1044,32"/>
+<area shape="rect" id="node2" href="$canvas_8h.html#aec628470c824e64c37fa01367e9e5682" title="Emulates the bucket tool, using the flood&#45;fill algorithm in playground." alt="" coords="755,5,881,32"/>
+<area shape="rect" id="node3" href="$playground__menu_8h.html#a4419250b2dea8dba6e0dd8d56216facf" title="Behaves like a state machine determining which function should be called." alt="" coords="560,5,707,32"/>
+<area shape="rect" id="node4" href="$playground__menu_8h.html#a9e8c1c300e97ee435b8070e0595723ff" title="Determines the flow of execution according to event." alt="" coords="335,5,512,32"/>
+<area shape="rect" id="node5" href="$playground__menu_8h.html#a99da563b093a11d2b46c75dc8d6d2136" title="Playground entry function." alt="" coords="163,5,287,32"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,5,115,32"/>
+</map>

@@ -1,0 +1,6 @@
+*.o
+.gbdinit
+.clang-format
+.vscode
+*.d
+proj

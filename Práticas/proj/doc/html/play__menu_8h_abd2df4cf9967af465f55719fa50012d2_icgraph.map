@@ -1,0 +1,8 @@
+<map id="draw_actual_default" name="draw_actual_default">
+<area shape="rect" id="node1" title="Draws all the required sprites by play menu." alt="" coords="247,123,383,149"/>
+<area shape="rect" id="node2" href="$play__menu_8h.html#ab4093d214bce3a16e916b19d782dd446" title="Draws all the required sprites by play menu if the game ends." alt="" coords="43,5,161,32"/>
+<area shape="rect" id="node3" href="$play__menu_8h.html#a322b5b02f30083058a55cc5082a62bc8" title="Draws all the required sprites by play menu if mouse is hovering in the buttons." alt="" coords="25,57,179,98"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#a5c81d8d808f6eca64c7999523b46e1ac" title="Draws all the required sprites by play menu if mouse is hovering in the buttons." alt="" coords="5,123,199,149"/>
+<area shape="rect" id="node5" href="$play__menu_8h.html#aa79d3facc656952a600953881a0c4bcd" title="Draws all the required sprites by play menu if mouse is hovering in the buttons." alt="" coords="25,174,179,215"/>
+<area shape="rect" id="node6" href="$play__menu_8h.html#ad3e6de8e30e24d6a7b06a2d36e674760" title="Draws all the required sprites by play menu if the game is paused." alt="" coords="33,240,171,267"/>
+</map>

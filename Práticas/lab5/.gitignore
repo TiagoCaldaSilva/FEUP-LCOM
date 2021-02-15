@@ -1,0 +1,5 @@
+*.o
+.gbdinit
+.clang-format
+.vscode
+lab5 

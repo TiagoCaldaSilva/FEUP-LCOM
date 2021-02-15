@@ -1,0 +1,11 @@
+<map id="max" name="max">
+<area shape="rect" id="node1" title="Returns the greatest value between parameters." alt="" coords="923,31,969,57"/>
+<area shape="rect" id="node2" href="$canvas_8h.html#acb0e51c67b7022c184488f0506642e56" title="Fills the gaps between mouse movements with the correct color." alt="" coords="755,31,875,57"/>
+<area shape="rect" id="node3" href="$play__menu_8h.html#af08548ca5d9eb1b591534bf769e65bb2" title="Behaves like a state machine determining which function should be called." alt="" coords="560,5,707,32"/>
+<area shape="rect" id="node7" href="$playground__menu_8h.html#a4419250b2dea8dba6e0dd8d56216facf" title="Behaves like a state machine determining which function should be called." alt="" coords="560,56,707,83"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#a916487f02659035c0c4b5475748ac63d" title="Determines the flow of execution according to event." alt="" coords="335,5,512,32"/>
+<area shape="rect" id="node5" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="182,5,267,32"/>
+<area shape="rect" id="node6" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,31,115,57"/>
+<area shape="rect" id="node8" href="$playground__menu_8h.html#a9e8c1c300e97ee435b8070e0595723ff" title="Determines the flow of execution according to event." alt="" coords="335,56,512,83"/>
+<area shape="rect" id="node9" href="$playground__menu_8h.html#a99da563b093a11d2b46c75dc8d6d2136" title="Playground entry function." alt="" coords="163,56,287,83"/>
+</map>

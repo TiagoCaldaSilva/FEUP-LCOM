@@ -1,0 +1,6 @@
+<map id="playground_paint_call" name="playground_paint_call">
+<area shape="rect" id="node1" title="Behaves like a state machine determining which function should be called." alt="" coords="560,5,707,32"/>
+<area shape="rect" id="node2" href="$playground__menu_8h.html#a9e8c1c300e97ee435b8070e0595723ff" title="Determines the flow of execution according to event." alt="" coords="335,5,512,32"/>
+<area shape="rect" id="node3" href="$playground__menu_8h.html#a99da563b093a11d2b46c75dc8d6d2136" title="Playground entry function." alt="" coords="163,5,287,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,5,115,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="canvas_flood_fill_left_play_mode" name="canvas_flood_fill_left_play_mode">
+<area shape="rect" id="node1" title="Paints All the pixels to the left to avoid stack Overflow in Play Menu." alt="" coords="5,91,144,133"/>
+<area shape="rect" id="node2" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="419,5,490,32"/>
+<area shape="rect" id="node4" href="$canvas_8c.html#a8eae21041a81bccb6be4f2bee301c7bb" title="Paints All the pixels to the left to avoid stack Overflow in Play Menu." alt="" coords="192,62,331,103"/>
+<area shape="rect" id="node5" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="383,75,526,117"/>
+<area shape="rect" id="node6" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="379,153,531,180"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="579,5,621,32"/>
+</map>

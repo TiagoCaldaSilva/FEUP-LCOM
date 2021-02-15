@@ -1,0 +1,4 @@
+<map id="rtc_wait_valid_time" name="rtc_wait_valid_time">
+<area shape="rect" id="node1" title="Makes sure none of the register are operation while an update is in progress." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="184,5,303,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="draw_sprites" name="draw_sprites">
+<area shape="rect" id="node1" title="draws sprites in the buffer passed as parameter" alt="" coords="525,5,620,32"/>
+<area shape="rect" id="node2" href="$settings__menu_8h.html#a98ce1aaa23cc85f670a9711a21c6102d" title="Settings Menu entry function." alt="" coords="163,5,269,32"/>
+<area shape="rect" id="node4" href="$settings__menu_8h.html#a128ef9b9734693063a0474914ad05586" title="Determines the flow of execution according to event." alt="" coords="317,31,477,57"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,5,115,32"/>
+</map>

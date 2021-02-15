@@ -1,0 +1,5 @@
+<map id="draw_score_2" name="draw_score_2">
+<area shape="rect" id="node1" title="Draws player 2 score sprite." alt="" coords="5,13,108,39"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a4a0d3c373a7ae03c1f53af7091933f19" title="Draws the sprite in the given buffer in a different position from sprite.x and sprite...." alt="" coords="156,13,261,39"/>
+<area shape="rect" id="node3" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="309,5,452,47"/>
+</map>

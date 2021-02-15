@@ -1,0 +1,8 @@
+<map id="playground_draw_actual_mouse_in_menu" name="playground_draw_actual_mouse_in_menu">
+<area shape="rect" id="node1" title="Draws all the required sprites by playground if mouse is hovering in the buttons." alt="" coords="5,19,167,61"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="491,5,579,32"/>
+<area shape="rect" id="node4" href="$playground__menu_8c.html#a8c1f220d7e2b06abe980a64fe9329be5" title="Draws all the required sprites by playground." alt="" coords="229,78,390,119"/>
+<area shape="rect" id="node6" href="$playground__menu_8c.html#ab742c20a86ea116112474a87de97d9a5" title="Sets the trail of the brush according to the current brush size." alt="" coords="215,27,404,53"/>
+<area shape="rect" id="node3" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="667,23,809,65"/>
+<area shape="rect" id="node5" href="$playground__menu_8c.html#a8b87c1d062b41969f30e3082ba6300d2" title="Sets the canvas to be ready to be used." alt="" coords="452,107,619,133"/>
+</map>

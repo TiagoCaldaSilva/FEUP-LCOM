@@ -1,0 +1,7 @@
+<map id="rtc_set_alarm" name="rtc_set_alarm">
+<area shape="rect" id="node1" title="Sets an alarm for the next time_value seconds." alt="" coords="5,31,107,57"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a26e94139c9e69e63cc8c00c714d6bfd6" title="Read the value of the register passed as time." alt="" coords="155,5,261,32"/>
+<area shape="rect" id="node5" href="$rtc_8c.html#a2ca85f70f162ed423f5db630ed3e89f4" title="Writes a value to the register passed as time." alt="" coords="155,56,261,83"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="488,31,607,57"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a56f9f4578afa5bb214703ab159c90a67" title="Makes sure none of the register are operation while an update is in progress." alt="" coords="309,56,440,83"/>
+</map>

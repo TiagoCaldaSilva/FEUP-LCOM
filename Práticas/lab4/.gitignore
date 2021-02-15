@@ -1,0 +1,8 @@
+*.o
+.gdbinit
+core.1360
+core.1422
+core.1484
+core.1547
+.vscode
+.clang-format

@@ -1,0 +1,6 @@
+<map id="guess_remove_letter" name="guess_remove_letter">
+<area shape="rect" id="node1" title="Removes the last letter sprite from the guess word." alt="" coords="5,38,147,65"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a4a0d3c373a7ae03c1f53af7091933f19" title="Draws the sprite in the given buffer in a different position from sprite.x and sprite...." alt="" coords="195,13,300,39"/>
+<area shape="rect" id="node4" href="$sprite_8c.html#a9d7045a6b7322b38f4a28e3389487a32" title="Erases the sprite from a given buffer." alt="" coords="201,63,294,90"/>
+<area shape="rect" id="node3" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="348,5,491,47"/>
+</map>

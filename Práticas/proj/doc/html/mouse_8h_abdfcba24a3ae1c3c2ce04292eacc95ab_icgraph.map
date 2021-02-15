@@ -1,0 +1,5 @@
+<map id="mouse_in_buffer" name="mouse_in_buffer">
+<area shape="rect" id="node1" title="Reports the current state of kbc&#39;s input buffer." alt="" coords="371,5,487,32"/>
+<area shape="rect" id="node2" href="$mouse_8h.html#a99cf8d768d25662a7332b0796b66afd1" title="Sends a command to the mouse without processing." alt="" coords="163,5,323,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,5,115,32"/>
+</map>

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['a_1018',['a',['../trace_8txt.html#a0b0c68d3c8e519b29f99edc437080ebb',1,'trace.txt']]],
+  ['a_5fxpm_1019',['a_xpm',['../avatar_8c.html#adb598fe0a2b04194fb29c1b1126f43e2',1,'a_xpm():&#160;avatar.c'],['../play__menu_8c.html#adb598fe0a2b04194fb29c1b1126f43e2',1,'a_xpm():&#160;play_menu.c']]],
+  ['actual_5fclock_1020',['actual_clock',['../play__menu_8c.html#a200ea5f52700fc9ae528d993f8952ced',1,'play_menu.c']]],
+  ['actual_5fgame_5fstatus_1021',['actual_game_status',['../play__menu_8c.html#ad62a960e663dd76d8457868d8d29390f',1,'play_menu.c']]],
+  ['actual_5fgt_1022',['actual_gt',['../play__menu_8c.html#aafdfc988835946869672e50004ca5c31',1,'play_menu.c']]],
+  ['actual_5fgv_1023',['actual_gv',['../play__menu_8c.html#ae7eced96e1a68512e01404203c07a667',1,'play_menu.c']]],
+  ['actual_5fmovement_1024',['actual_movement',['../play__menu_8c.html#a4e5090cc3a397040658fbc7b9aedc4a7',1,'play_menu.c']]],
+  ['actual_5fround_1025',['actual_round',['../play__menu_8c.html#ab952301a6c7da1f39ced6780cb58aca1',1,'play_menu.c']]],
+  ['actual_5fsprite_1026',['actual_sprite',['../settings__menu_8c.html#a6023de112d415cf41cf397dac379eeb5',1,'settings_menu.c']]],
+  ['actual_5ftime_1027',['actual_time',['../play__menu_8c.html#a0b66556499c2556aa698dda91f9a867c',1,'actual_time():&#160;proj.c'],['../proj_8c.html#a0b66556499c2556aa698dda91f9a867c',1,'actual_time():&#160;proj.c'],['../settings__menu_8c.html#a0b66556499c2556aa698dda91f9a867c',1,'actual_time():&#160;proj.c']]],
+  ['actual_5fvelocity_1028',['actual_velocity',['../play__menu_8c.html#a7ec3a3c43b90d0b21f94f9926bd80c37',1,'actual_velocity():&#160;proj.c'],['../proj_8c.html#a7ec3a3c43b90d0b21f94f9926bd80c37',1,'actual_velocity():&#160;proj.c'],['../settings__menu_8c.html#a7ec3a3c43b90d0b21f94f9926bd80c37',1,'actual_velocity():&#160;proj.c']]],
+  ['addr_1029',['addr',['../trace_8txt.html#a34d8ad3b6c734b5ace01cb24c3541507',1,'trace.txt']]],
+  ['alphabet_5fsc_1030',['alphabet_sc',['../keyboard_8c.html#a9c6985170676946893bdac9479a7b6a4',1,'keyboard.c']]],
+  ['alphabet_5fsprites_1031',['alphabet_sprites',['../avatar_8c.html#a1feb4359039869bad89c379f1e8799da',1,'alphabet_sprites():&#160;avatar.c'],['../play__menu_8c.html#a49534e8f46aabd0e10b3c3a209a2358c',1,'alphabet_sprites():&#160;play_menu.c']]],
+  ['avatar_5fbackground_5fxpm_1032',['avatar_background_xpm',['../avatar_8c.html#a12f0527570ada7a00f7527b879e57f36',1,'avatar.c']]],
+  ['avatar_5fdouble_5fbuffer_1033',['avatar_double_buffer',['../avatar_8c.html#a3798eb3778b369472dcd7b4d4767982b',1,'avatar.c']]],
+  ['avatar_5fvideo_5fmem_1034',['avatar_video_mem',['../avatar_8c.html#abc6fb2c7365671b4d1bce89a062bd032',1,'avatar.c']]],
+  ['avo_5ficon_5fxpm_1035',['avo_icon_xpm',['../play__menu_8c.html#aee207a51ff1dfdaae823fa32e87e4e14',1,'play_menu.c']]]
+];

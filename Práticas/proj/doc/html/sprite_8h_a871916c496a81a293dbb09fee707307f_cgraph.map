@@ -1,0 +1,4 @@
+<map id="draw_part_of" name="draw_part_of">
+<area shape="rect" id="node1" title="Same as draw_sprites but allows drawing beyond the screen borders or even not the whole sprite." alt="" coords="5,5,100,32"/>
+<area shape="rect" id="node2" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="148,5,300,32"/>
+</map>

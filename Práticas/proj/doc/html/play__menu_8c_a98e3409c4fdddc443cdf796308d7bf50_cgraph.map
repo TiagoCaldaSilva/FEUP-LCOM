@@ -1,0 +1,9 @@
+<map id="choose_word" name="choose_word">
+<area shape="rect" id="node1" title="Chooses a word from the set of words, randomly." alt="" coords="5,119,104,145"/>
+<area shape="rect" id="node2" href="$play__menu_8c.html#ac82b2edef4e857216a80599014329f44" title="Draws the choosen word in the screen." alt="" coords="152,68,284,95"/>
+<area shape="rect" id="node4" href="$sprite_8c.html#a4a0d3c373a7ae03c1f53af7091933f19" title="Draws the sprite in the given buffer in a different position from sprite.x and sprite...." alt="" coords="483,68,588,95"/>
+<area shape="rect" id="node3" href="$play__menu_8c.html#ae7401e64b7dc9e9909dfb3a605539644" title="Draws player 1 score sprite." alt="" coords="332,43,435,69"/>
+<area shape="rect" id="node6" href="$play__menu_8c.html#af2677666f011469e6c8f5538341957b6" title="Draws player 2 score sprite." alt="" coords="332,93,435,120"/>
+<area shape="rect" id="node7" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="491,5,579,32"/>
+<area shape="rect" id="node5" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="636,35,779,77"/>
+</map>

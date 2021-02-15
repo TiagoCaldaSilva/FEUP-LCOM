@@ -1,0 +1,4 @@
+<map id="canvas_cleaning" name="canvas_cleaning">
+<area shape="rect" id="node1" title="Paints all the canvas to the default color." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node2" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="171,5,323,32"/>
+</map>

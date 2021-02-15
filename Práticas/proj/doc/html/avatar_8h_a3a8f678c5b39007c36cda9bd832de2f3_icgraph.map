@@ -1,0 +1,5 @@
+<map id="select_avatar_state_machine" name="select_avatar_state_machine">
+<area shape="rect" id="node1" title="Determines the flow of execution according to event." alt="" coords="348,5,483,47"/>
+<area shape="rect" id="node2" href="$avatar_8h.html#abaa5ceb2155c01d35bdbf3d8c2c5af50" title="Select Avatar Menu entry function." alt="" coords="163,13,300,39"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,13,115,39"/>
+</map>

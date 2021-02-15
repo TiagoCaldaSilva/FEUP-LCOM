@@ -1,0 +1,9 @@
+<map id="canvas_flood_fill" name="canvas_flood_fill">
+<area shape="rect" id="node1" title="Implementation of the flood&#45;fill algorithm (Discussed more closely in the report)" alt="" coords="5,56,120,83"/>
+<area shape="rect" id="node2" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="206,5,277,32"/>
+<area shape="rect" id="node4" href="$canvas_8c.html#a4c7cc9b6e27c1fb5ce4246f3295009b9" title="Paints All the pixels to the left to avoid stack Overflow in Playground." alt="" coords="363,80,501,107"/>
+<area shape="rect" id="node7" href="$canvas_8c.html#a6599ef73ee16b41c9ea792c446d871bc" title="Paints All the pixels to the right to avoid stack Overflow in Playground." alt="" coords="168,131,315,157"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="411,5,453,32"/>
+<area shape="rect" id="node5" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="554,83,697,125"/>
+<area shape="rect" id="node6" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="549,160,701,187"/>
+</map>

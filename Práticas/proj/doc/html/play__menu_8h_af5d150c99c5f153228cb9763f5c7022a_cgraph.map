@@ -1,0 +1,5 @@
+<map id="draw_give_up" name="draw_give_up">
+<area shape="rect" id="node1" title="Draws the Give Up button according the value passed as parameter." alt="" coords="5,13,104,39"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="152,13,240,39"/>
+<area shape="rect" id="node3" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="288,5,431,47"/>
+</map>

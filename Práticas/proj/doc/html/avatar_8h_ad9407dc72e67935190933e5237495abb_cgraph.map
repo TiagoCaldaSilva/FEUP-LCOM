@@ -1,0 +1,4 @@
+<map id="select_avatar_load_sprites" name="select_avatar_load_sprites">
+<area shape="rect" id="node1" title="Loads all the different avatar menu sprites." alt="" coords="5,5,135,47"/>
+<area shape="rect" id="node2" href="$sprite_8c.html#a53e805348193908dd2411a58f260e369" title="Create a sprite object." alt="" coords="183,13,280,39"/>
+</map>

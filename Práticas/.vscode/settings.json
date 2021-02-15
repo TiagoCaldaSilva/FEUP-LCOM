@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "system_error": "c",
+        "xlocale": "c",
+        "typeinfo": "c",
+        "xiosbase": "c",
+        "cmath": "c",
+        "*.xpm": "c",
+        "map": "c",
+        "__tree": "c"
+    }
+}

@@ -1,0 +1,5 @@
+<map id="video_card_get_info" name="video_card_get_info">
+<area shape="rect" id="node1" title="Fills the vbe_info struct with all the graphic mode information." alt="" coords="317,5,452,32"/>
+<area shape="rect" id="node2" href="$video__card_8h.html#aeeea87592b5747fe82a47d096bca041b" title="Initializes video card in the desired graphic mode." alt="" coords="163,5,269,32"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,5,115,32"/>
+</map>

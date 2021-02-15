@@ -1,0 +1,11 @@
+<map id="guess_add_letter" name="guess_add_letter">
+<area shape="rect" id="node1" title="Adds a letter sprite to the guess word." alt="" coords="5,101,127,127"/>
+<area shape="rect" id="node2" href="$play__menu_8c.html#ab724f0b35ec795a58e6fef6d64a62195" title="Draws the correct awnser icon." alt="" coords="175,101,265,127"/>
+<area shape="rect" id="node3" href="$play__menu_8c.html#ae0e9110fe1dd1ef3e37c4cf1b38244cc" title="Draws the guess word in the screen." alt="" coords="313,101,439,127"/>
+<area shape="rect" id="node6" href="$sprite_8c.html#a4a0d3c373a7ae03c1f53af7091933f19" title="Draws the sprite in the given buffer in a different position from sprite.x and sprite...." alt="" coords="637,50,743,77"/>
+<area shape="rect" id="node9" href="$sprite_8c.html#afaecd5a5359befab71f6c3f066a34d59" title="Draws the sprite in the given buffer in the position by sprite.x and sprite.y." alt="" coords="494,177,582,203"/>
+<area shape="rect" id="node4" href="$play__menu_8c.html#a0fcf494f32f9ac84eb224c1f20f11a05" title="Sets the canvas to be ready to be used." alt="" coords="490,75,586,102"/>
+<area shape="rect" id="node5" href="$play__menu_8c.html#ae7401e64b7dc9e9909dfb3a605539644" title="Draws player 1 score sprite." alt="" coords="487,126,589,153"/>
+<area shape="rect" id="node8" href="$play__menu_8c.html#af2677666f011469e6c8f5538341957b6" title="Draws player 2 score sprite." alt="" coords="487,25,589,51"/>
+<area shape="rect" id="node7" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="791,93,933,135"/>
+</map>

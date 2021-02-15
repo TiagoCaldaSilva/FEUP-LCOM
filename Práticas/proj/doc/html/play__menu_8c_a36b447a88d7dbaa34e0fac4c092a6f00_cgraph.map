@@ -1,0 +1,4 @@
+<map id="menu_move_next_right" name="menu_move_next_right">
+<area shape="rect" id="node1" title="Moves the next menu set of sprite to the right." alt="" coords="5,13,160,39"/>
+<area shape="rect" id="node2" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="208,5,351,47"/>
+</map>

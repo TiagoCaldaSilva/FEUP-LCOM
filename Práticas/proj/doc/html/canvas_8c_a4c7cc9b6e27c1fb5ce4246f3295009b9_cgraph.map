@@ -1,0 +1,5 @@
+<map id="canvas_flood_fill_left" name="canvas_flood_fill_left">
+<area shape="rect" id="node1" title="Paints All the pixels to the left to avoid stack Overflow in Playground." alt="" coords="5,42,144,69"/>
+<area shape="rect" id="node2" href="$video__card_8c.html#a14392a653e9a4e8293b1ff38254b724b" title="Retrieves the color of the pixel in the position (x, y) in the given buffer." alt="" coords="197,5,339,47"/>
+<area shape="rect" id="node3" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="192,71,344,98"/>
+</map>

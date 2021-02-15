@@ -1,0 +1,7 @@
+<map id="canvas_bucket_fill_play_mode" name="canvas_bucket_fill_play_mode">
+<area shape="rect" id="node1" title="Emulates the bucket tool, using the flood&#45;fill algorithm in Play Menu." alt="" coords="716,5,843,47"/>
+<area shape="rect" id="node2" href="$play__menu_8h.html#af08548ca5d9eb1b591534bf769e65bb2" title="Behaves like a state machine determining which function should be called." alt="" coords="521,13,668,39"/>
+<area shape="rect" id="node3" href="$play__menu_8h.html#a916487f02659035c0c4b5475748ac63d" title="Determines the flow of execution according to event." alt="" coords="296,13,473,39"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="163,13,248,39"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,13,115,39"/>
+</map>

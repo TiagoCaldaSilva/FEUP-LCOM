@@ -1,0 +1,6 @@
+<map id="swap_sprite" name="swap_sprite">
+<area shape="rect" id="node1" title="Swaps Sprites thus creating animations effects." alt="" coords="529,5,620,32"/>
+<area shape="rect" id="node2" href="$main__menu_8h.html#a9fe632896ad1b8b0949fa8a29d44d21e" title="Determines the flow of execution according to event." alt="" coords="300,5,481,32"/>
+<area shape="rect" id="node3" href="$main__menu_8h.html#a190b8cb1781bc4899c8f75a23608be88" title="Main Menu entry function." alt="" coords="163,5,252,32"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,5,115,32"/>
+</map>

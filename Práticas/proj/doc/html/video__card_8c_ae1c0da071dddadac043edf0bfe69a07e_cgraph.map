@@ -1,0 +1,4 @@
+<map id="video_card_draw_rectangle" name="video_card_draw_rectangle">
+<area shape="rect" id="node1" title="draws a reactangle of a given color with a given color" alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="231,5,383,32"/>
+</map>

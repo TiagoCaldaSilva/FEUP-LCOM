@@ -1,0 +1,5 @@
+<map id="main_menu_cursor_button" name="main_menu_cursor_button">
+<area shape="rect" id="node1" title="Tells where the cursor is hovering." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$utils_8c.html#ac248fef79abe7960fe75d4462e222222" title="Determines if a value is inside a given range." alt="" coords="228,5,299,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a75178646b4e1ede5999ecba6d8b807eb" title="Returns the smallest value between parameters." alt="" coords="347,5,389,32"/>
+</map>

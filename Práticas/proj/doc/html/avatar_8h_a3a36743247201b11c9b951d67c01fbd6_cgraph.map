@@ -1,0 +1,5 @@
+<map id="clear_moved_avatar" name="clear_moved_avatar">
+<area shape="rect" id="node1" title="Cleans the avatar that was moved out of sight." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$video__card_8c.html#ae1c0da071dddadac043edf0bfe69a07e" title="draws a reactangle of a given color with a given color" alt="" coords="188,5,365,32"/>
+<area shape="rect" id="node3" href="$video__card_8c.html#a287fa0cf3546d03728ae48043850673f" title="Paints the pixel in the position (x, y) in the given buffer." alt="" coords="413,5,565,32"/>
+</map>

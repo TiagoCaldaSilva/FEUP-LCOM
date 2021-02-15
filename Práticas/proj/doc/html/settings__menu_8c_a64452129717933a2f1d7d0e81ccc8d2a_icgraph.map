@@ -1,0 +1,7 @@
+<map id="draw_time" name="draw_time">
+<area shape="rect" id="node1" title="draws the value of time" alt="" coords="668,5,749,32"/>
+<area shape="rect" id="node2" href="$settings__menu_8h.html#ab3d9f6f1b48ffe5459a79681f2b7bf60" title="draws sprites in the buffer passed as parameter" alt="" coords="525,5,620,32"/>
+<area shape="rect" id="node3" href="$settings__menu_8h.html#a98ce1aaa23cc85f670a9711a21c6102d" title="Settings Menu entry function." alt="" coords="163,5,269,32"/>
+<area shape="rect" id="node5" href="$settings__menu_8h.html#a128ef9b9734693063a0474914ad05586" title="Determines the flow of execution according to event." alt="" coords="317,31,477,57"/>
+<area shape="rect" id="node4" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,5,115,32"/>
+</map>

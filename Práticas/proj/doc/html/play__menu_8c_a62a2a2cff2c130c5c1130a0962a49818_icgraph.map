@@ -1,0 +1,7 @@
+<map id="refresh_menu_play_double_buffer" name="refresh_menu_play_double_buffer">
+<area shape="rect" id="node1" title="updates the contents of the main video buffer with the ones from the secondary video buffer" alt="" coords="660,23,836,65"/>
+<area shape="rect" id="node2" href="$play__menu_8h.html#a74b2f52fb51c057ce76165b5a0337806" title="Moves the menu in a given direction." alt="" coords="521,5,612,32"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="163,31,248,57"/>
+<area shape="rect" id="node3" href="$play__menu_8h.html#a916487f02659035c0c4b5475748ac63d" title="Determines the flow of execution according to event." alt="" coords="296,5,473,32"/>
+<area shape="rect" id="node5" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,31,115,57"/>
+</map>

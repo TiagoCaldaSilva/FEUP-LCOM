@@ -1,0 +1,9 @@
+<map id="mouse_packet_assemble" name="mouse_packet_assemble">
+<area shape="rect" id="node1" title="Assembles the packet with the info provided from the bytes sent fromthe mouse." alt="" coords="348,107,519,133"/>
+<area shape="rect" id="node2" href="$main__menu_8h.html#a190b8cb1781bc4899c8f75a23608be88" title="Main Menu entry function." alt="" coords="187,5,276,32"/>
+<area shape="rect" id="node4" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="189,56,274,83"/>
+<area shape="rect" id="node5" href="$playground__menu_8h.html#a99da563b093a11d2b46c75dc8d6d2136" title="Playground entry function." alt="" coords="169,107,293,133"/>
+<area shape="rect" id="node6" href="$avatar_8h.html#abaa5ceb2155c01d35bdbf3d8c2c5af50" title="Select Avatar Menu entry function." alt="" coords="163,157,300,184"/>
+<area shape="rect" id="node7" href="$settings__menu_8h.html#a98ce1aaa23cc85f670a9711a21c6102d" title="Settings Menu entry function." alt="" coords="178,208,285,235"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,107,115,133"/>
+</map>

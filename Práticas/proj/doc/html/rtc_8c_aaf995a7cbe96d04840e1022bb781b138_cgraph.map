@@ -1,0 +1,4 @@
+<map id="rtc_enable_conf" name="rtc_enable_conf">
+<area shape="rect" id="node1" title="Enables Interrupts of the type passed as interrupt." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node2" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="167,5,285,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtc_write_value" name="rtc_write_value">
+<area shape="rect" id="node1" title="Writes a value to the register passed as time." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a56f9f4578afa5bb214703ab159c90a67" title="Makes sure none of the register are operation while an update is in progress." alt="" coords="160,5,291,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="339,5,457,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mouse_send_command" name="mouse_send_command">
+<area shape="rect" id="node1" title="Sends a command to the mouse without processing." alt="" coords="5,56,165,83"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#abdfcba24a3ae1c3c2ce04292eacc95ab" title="Reports the current state of kbc&#39;s input buffer." alt="" coords="217,5,333,32"/>
+<area shape="rect" id="node4" href="$utils_8c.html#a67c06d991f4593d52a9c89850cef35f5" title="Wrapper function of sys_inb()" alt="" coords="569,81,688,108"/>
+<area shape="rect" id="node5" href="$mouse_8c.html#a255457bba3fa4214eccc765299566dd5" title="Reports the current state of kbc&#39;s output buffer." alt="" coords="213,56,337,83"/>
+<area shape="rect" id="node3" href="$mouse_8c.html#a311f43f2f33b33379ee614b04c60f89e" title="Reads the mouse current status." alt="" coords="385,56,521,83"/>
+</map>

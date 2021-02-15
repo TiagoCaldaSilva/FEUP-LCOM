@@ -1,0 +1,7 @@
+<map id="keyboard_recognizeScanCode" name="keyboard_recognizeScanCode">
+<area shape="rect" id="node1" title="Recgonizes a scancode sent by the keyboard to a character present in an array of characters." alt="" coords="348,56,547,83"/>
+<area shape="rect" id="node2" href="$play__menu_8h.html#a2e4df310252d447c9fe645cf62b01e3c" title="Play MenueEntry function." alt="" coords="189,5,274,32"/>
+<area shape="rect" id="node4" href="$playground__menu_8h.html#a99da563b093a11d2b46c75dc8d6d2136" title="Playground entry function." alt="" coords="169,56,293,83"/>
+<area shape="rect" id="node5" href="$avatar_8h.html#abaa5ceb2155c01d35bdbf3d8c2c5af50" title="Select Avatar Menu entry function." alt="" coords="163,107,300,133"/>
+<area shape="rect" id="node3" href="$proj_8c.html#a90aad768b0a0b41e4bcacc566b0cae6e" title=" " alt="" coords="5,56,115,83"/>
+</map>
