@@ -1,4 +1,4 @@
-# Draw it
+# Draw it :pencil2:
 ## Infos :information_source:
 Draw it pretends to be a game that follows the same bases that the game <a href="https://skribbl.io/">skribbl.io</a>. This game is divided in many turns where one of the players draws something that was
 decided for him previously. Then, the other player must guess what was drawn. The game ends when the max number of turns is reached and the winner is the player with more points.<br>
