@@ -12,6 +12,6 @@ Project development:
   <li><a href="https://github.com/mikRodrigues">Miguel Rodrigues</a> - <em>35%</em></li>
 </ul>
 
-<strong>Programming language used:</strong> <em>C++</em>
+<strong>Programming language used:</strong> <em>C</em>
 <br><br>
 Final grade: <em>:soon:</em>
