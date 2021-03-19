@@ -14,4 +14,4 @@ Project development:
 
 <strong>Programming language used:</strong> <em>C</em>
 <br><br>
-<strong>Final</strong> grade: <em>17.65</em></li>
+<strong>Final grade:</strong> <em>17.65</em></li>
